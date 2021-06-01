@@ -29,7 +29,7 @@ twitter_username: Nl_l11L
 github_username:  Matt-London
 
 # Build settings
-theme: jekyll-theme-architect
+theme: minima
 plugins:
   - jekyll-feed
 
